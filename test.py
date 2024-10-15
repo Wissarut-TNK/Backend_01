@@ -1,1 +1,7 @@
 print ("HELLO PHYTHON") 
+print ("Wissarut Hmudlae")
+print ("Hasim")
+print ("19")
+print ("11")
+print ("67319010052")
+print ("Listen to music and playgame")
